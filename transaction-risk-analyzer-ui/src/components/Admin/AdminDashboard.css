@@ -1,0 +1,63 @@
+/* AdminDashboard.css */
+
+/* Table Styles */
+.row-no-border > * {
+  border-bottom: unset;
+}
+
+/* Collapsed Cell Styling */
+.collapsed-cell {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+/* Detail Box Styles */
+.detail-box {
+  margin: 2;
+}
+
+/* Risk Analysis Section */
+.risk-analysis-box {
+  margin-bottom: 16px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+/* Risk Factors Chips Container */
+.risk-factors-container {
+  margin-bottom: 16px;
+}
+
+/* Risk Factor Chip */
+.risk-factor-chip {
+  margin: 4px;
+}
+
+/* Analysis Paper */
+.analysis-paper {
+  padding: 16px;
+  background-color: #f5f5f5;
+}
+
+/* Transaction Details Container */
+.transaction-details {
+  margin-top: 16px;
+}
+
+/* Dashboard Container */
+.dashboard-container {
+  padding: 24px;
+}
+
+/* Loading Container */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  margin: 24px;
+}
+
+/* Error Alert */
+.error-alert {
+  margin-bottom: 16px;
+}

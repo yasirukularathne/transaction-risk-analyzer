@@ -1,0 +1,20 @@
+{
+  "transaction_id": "tx_invalid_001",
+  "timestamp": "2025-06-24T10:00:00Z",
+  "amount": 150.00,
+  "currency": "USD",
+  "customer": {
+    "id": "cust_12345",
+    "country": "US"
+  },
+  "payment_method": {
+    "type": "credit_card",
+    "last_four": "5678",
+    "country_of_issue": "US"
+  },
+  "merchant": {
+    "id": "merch_12345",
+    "name": "Example Store",
+    "category": "retail"
+  }
+}

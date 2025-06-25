@@ -1,0 +1,21 @@
+{
+  "transaction_id": "tx_highrisk_001",
+  "timestamp": "2025-06-24T02:15:30Z",
+  "amount": 25000.00,
+  "currency": "USD",
+  "customer": {
+    "id": "cust_suspicious_001",
+    "country": "US",
+    "ip_address": "185.220.100.240"
+  },
+  "payment_method": {
+    "type": "credit_card",
+    "last_four": "9999",
+    "country_of_issue": "US"
+  },
+  "merchant": {
+    "id": "merch_jewelry_001",
+    "name": "Luxury Jewelry Store",
+    "category": "jewelry"
+  }
+}

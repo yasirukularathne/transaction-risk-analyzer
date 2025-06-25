@@ -1,0 +1,21 @@
+{
+  "transaction_id": "tx_standard_001",
+  "timestamp": "2025-06-24T12:30:00Z",
+  "amount": 59.99,
+  "currency": "USD",
+  "customer": {
+    "id": "cust_regular_001",
+    "country": "US",
+    "ip_address": "192.168.0.1"
+  },
+  "payment_method": {
+    "type": "credit_card",
+    "last_four": "1234",
+    "country_of_issue": "US"
+  },
+  "merchant": {
+    "id": "merch_online_001",
+    "name": "Online Retailer",
+    "category": "electronics"
+  }
+}

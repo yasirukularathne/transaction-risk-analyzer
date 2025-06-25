@@ -1,0 +1,21 @@
+{
+  "transaction_id": "tx_highrisk_country_001",
+  "timestamp": "2025-06-24T05:45:20Z",
+  "amount": 1500.00,
+  "currency": "USD",
+  "customer": {
+    "id": "cust_foreign_001",
+    "country": "RU",
+    "ip_address": "95.31.18.119"
+  },
+  "payment_method": {
+    "type": "credit_card",
+    "last_four": "5678",
+    "country_of_issue": "RU"
+  },
+  "merchant": {
+    "id": "merch_software_001",
+    "name": "Software Company",
+    "category": "software"
+  }
+}
